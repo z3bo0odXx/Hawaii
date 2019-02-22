@@ -11,7 +11,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : EX Clan ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`=BC|Royale Games BroadCast`,"http://twitch.tv/Death Shop")
+client.user.setGame(`=BC|#,Hawaii,Bc!!!`,"http://twitch.tv/Death Shop")
 client.user.setStatus("dnd")
 });
 
